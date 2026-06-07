@@ -12,10 +12,13 @@
 | `configs/` | Development environment and dotfiles |
 
 ## Currently Focusing On
-[] Frontend fundamentals and frameworks
-[] TypeScript
-[] Agent development
-[] Node.js closures
+[ ] Frontend fundamentals and frameworks
+
+[ ] TypeScript
+
+[ ] Agent development
+
+[ ] Node.js closures
 
 ## Learning Log
 
